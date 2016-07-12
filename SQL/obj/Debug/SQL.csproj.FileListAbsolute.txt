@@ -1,0 +1,7 @@
+D:\Visual Studio Apps\SQL\SQL\bin\Debug\SQL.exe.config
+D:\Visual Studio Apps\SQL\SQL\bin\Debug\SQL.exe
+D:\Visual Studio Apps\SQL\SQL\bin\Debug\SQL.pdb
+D:\Visual Studio Apps\SQL\SQL\bin\Debug\MySql.Data.dll
+D:\Visual Studio Apps\SQL\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+D:\Visual Studio Apps\SQL\SQL\obj\Debug\SQL.exe
+D:\Visual Studio Apps\SQL\SQL\obj\Debug\SQL.pdb
